@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Jaiswal
 
-<!--
-**Jaiswalshu/Jaiswalshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer | Cybersecurity Enthusiast | AI/ML Explorer
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Computer Science Graduate
+- 🌐 Full Stack Development
+- 🔐 Cybersecurity & VAPT
+- 🤖 AI/ML Projects
+- ☁️ Cloud & DevOps
+- 💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- React.js
+- Node.js
+- Flask APIs
+- Cybersecurity
+- AI-based IDS
+- System Design
+
+## 🛠️ Tech Stack
+
+Python | JavaScript | React | Node.js | Flask | MySQL | MongoDB | Docker | Linux | Git | AWS
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/subhanshurajit
+
