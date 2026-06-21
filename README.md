@@ -1,7 +1,12 @@
+<h1 align="center">Hi 👋, I'm Shubham Jaiswal</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&width=700&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Python+Developer;AI%2FML+Explorer;Open+Source+Learner" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaiswalshu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
   ![](https://komarev.com/ghpvc/?username=Jaiswalshu)
 
 # Hi 👋, I'm Shubham Jaiswal
