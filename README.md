@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&width=700&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Python+Developer;AI%2FML+Explorer;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&width=700&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Python+Developer;AI%2FML+Explorer;Open+Source+Learner" />
 </p>
 
   ![](https://komarev.com/ghpvc/?username=Jaiswalshu)
