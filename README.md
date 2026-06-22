@@ -9,14 +9,13 @@
 </p> -->
 
 
-### Software Engineer| Cybersecurity Enthusiast | Full Stack Web Developer | AI/ML Explorer
+### Software Engineer | Building Secure & Scalable Applications
 
-- 🎓 B.Tech Computer Science Graduate
-- 🌐 Full Stack Development
-- 🔐 Cybersecurity & VAPT
-- 🤖 AI/ML Projects
-- ☁️ Cloud & DevOps
-- 💻 Python Developer
+Software Engineer
+Full Stack Developer
+Python Developer
+Cybersecurity Enthusiast
+Building AI-Powered Applications
 
 
 ## 🛠️ Tech Stack
@@ -26,7 +25,7 @@
 </p>
 
 <p align="center">
-Python • JavaScript • C • C++ • HTML • CSS • React • Node.js • Express.js • Flask • FastAPI • MongoDB • MySQL • Docker • Git • GitHub • Linux • AWS • VS Code • Postman • XAMPP
+Python • JavaScript • C • C++ • HTML • CSS • React • Node.js • Flask • FastAPI • MongoDB • MySQL • Docker • Git • GitHub • Linux • AWS • VS Code • Postman • XAMPP
 </p>
 
 ## 🔐 Cybersecurity & Networking
