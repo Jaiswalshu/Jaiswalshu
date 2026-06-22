@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhanshu Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&width=700&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Python+Developer;AI%2FML+Explorer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=2000&width=1200&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+AI%2FML+Explorer" />
 </p>
 
 <!-- <p align="center">
