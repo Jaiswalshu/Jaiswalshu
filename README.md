@@ -11,11 +11,6 @@
 
 ### Software Engineer | Building Secure & Scalable Applications
 
-Software Engineer
-Full Stack Developer
-Python Developer
-Cybersecurity Enthusiast
-Building AI-Powered Applications
 
 
 ## 🛠️ Tech Stack
